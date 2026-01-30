@@ -1,16 +1,18 @@
-## Hi there 👋
+# ────────
+#   NOVEMBER, 13TH
+# ────────
 
-<!--
-**KAKAVAS4/KAKAVAS4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| FIELD | INFORMATION |
+| :--- | :--- |
+| Name | Cymel / kym |
+| Birthday | November, 13th |
+| Favorite Colors | Yellow, Orange, Blue, Purple |
+| Favorite Character | Aventurine |
 
-Here are some ideas to get you started:
+# ─────────
+#   NOVEMBER, 13TH
+# ─────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cymel Profile Image](70s%20colour%20pallet.jpeg)
+
+# ────────
