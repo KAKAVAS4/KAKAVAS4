@@ -13,6 +13,3 @@
 #   NOVEMBER, 13TH
 # ─────────
 
-![Cymel Profile Image](70s%20colour%20pallet.jpeg)
-
-# ────────
